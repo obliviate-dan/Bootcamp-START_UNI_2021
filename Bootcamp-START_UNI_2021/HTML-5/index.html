@@ -2,24 +2,32 @@
 <html lang="PT-BR">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Daniel J. Tenório</title>
+    <script src="https://kit.fontawesome.com/yourcode.js"></script>
     <link rel="stylesheet" href="style.css">
-</head>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Dosis&display=swap" rel="stylesheet"></head>
 <body>
-    <header>
-        <img src="headshot.jpg" alt="foto de um cachorro com a boca aberta">
+    <header> <!--Nesse header contem: meu nome e barra de navegação-->
+        <img class="photo" src="headshot.jpg" alt="foto de um cachorro com a boca aberta">
         <h1 id="title">Daniel J. Tenório</h1>
+        <ul class="navbar">
+            <li><a href="#" class="active">Home</a></li>
+            <li><a href="#">Posts</a></li>
+            <li><a href="#">About</a></li>
+          </ul> 
     </header>
     <section>
-        <header>
+        <header> <!--Nesse header contem: post como conteudo-->
             <h2 class="subtitle">Posts</h2>
         </header>
         <article class="post">
             <header>
                 <h3 class="post_title">Why Information Security is Important? </h3>
-                <img src="kety.jpg" alt="ilustração de uma chave">
+                <img src="kety.jpg" alt="ilustração de uma chave" class="post_img">
             </header>
-            <p>
+            <p class="post_content"> 
                 We are living in the present digital world where we are all depending on information technology more than ever and our health, happiness, and even our lives have its importance. Whether we are using medical equipment in hospitals, traveling on the latest cars, the security systems in our homes and full of technology smartphones, the computerized equipment performs a greater role in the current human experience with every passing year. We can say information security becomes the basic need of human life.
 
 Information technology is not only the basic requirement of our lives but it has more importance for our business as well. The most important asset of an organization is Information and to ensure confidentiality and integrity of the valuable and crucial information and operational process in an organization, the demand for information security increases day by day. Our world is changing from an industrial economy to a digital society rapidly and with the advancement of information technology, cyberattacks have also emerged as a major risk to individuals, businesses, and governments alike. It is a big fact that cybersecurity challenges us in ways that no threat has faced before.
@@ -28,7 +36,7 @@ Information technology is not only the basic requirement of our lives but it has
         </article>
     </section>
     <footer>
-        <ul>
+        <ul class="contacts_list"> <!--Informaçoes de contato-->
             <li>
                 <a href="mailto:dantenorio0@gmail.com" target="_blank">E-mail</a>
             </li>
