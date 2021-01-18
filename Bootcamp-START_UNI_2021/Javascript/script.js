@@ -1,8 +1,10 @@
 
-
+function cliclou(){
+    alert("Me contrata");
+}
 
 //funções
-function validaIdade(idade){
+/*function validaIdade(idade){
     if (idade >= 18){
         validar = true
     }else{
@@ -14,7 +16,7 @@ function validaIdade(idade){
 validaIdade = prompt("Qual sua idade?");
 console.log(validadeIdade(idade));
 
-
+/
 
 
 //var d = new Date();
