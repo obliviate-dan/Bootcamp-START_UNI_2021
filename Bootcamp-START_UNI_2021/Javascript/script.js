@@ -1,4 +1,41 @@
 
+
+
+//funções
+function validaIdade(idade){
+    if (idade >= 18){
+        validar = true
+    }else{
+        validar = false
+    }
+    
+}
+
+validaIdade = prompt("Qual sua idade?");
+console.log(validadeIdade(idade));
+
+
+
+
+//var d = new Date();
+//alert("hoje é" + d.getDate() + "/" + (d.getMonth()+1));
+
+
+//estruturas de repetição 
+
+/*
+var count;
+for(count=0; count <= 5; count++){
+    alert(count);
+};
+
+
+var count = 0;
+while (count < 5){
+    console.log(count);
+    count++;
+}; */
+
 /*
 var idade = prompt("Qual sua idade");
 if (idade > 18){
