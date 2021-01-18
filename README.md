@@ -8,8 +8,11 @@ Este repositorio tem como objetivo armazenar todo (ou quase todo) o meu processo
 ###### Durante o bootcamp estes serão os tópicos abordados
 
 > Lógica de programação essencial.
+
 > Introdução ao Git e ao GitHub.
+
 > Introdução a criação de websites com HTML5 e CSS3.
+
 > Programação para internet com JavaScript.
 > Desenvolvimento avançado com JavaScript ES6.
 > Recriando o famoso jogo do dinossauro sem internet.
