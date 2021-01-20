@@ -12,7 +12,8 @@ function funcaoChange(elemento){
 //getElement
 
 function cliclou(){   
-    document.getElementById("agradecimento").innerHTML = "Obrigado por clicar";   // alert("Me contrata");
+    document.getElementById("agradecimento").innerHTML = "Obrigado por clicar";   
+    // alert("Me contrata");
 }
 
 function redirecionar(){
