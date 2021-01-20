@@ -1,4 +1,6 @@
 
+
+
 function cliclou(){   
     document.getElementById("agradecimento").innerHTML = "Obrigado por clicar";   // alert("Me contrata");
 }
@@ -9,6 +11,21 @@ function redirecionar(){
     //Para abrir na mesma aba:
     window.location.href = "https://www.google.com";
 }
+
+//funçoes mouse
+
+function trocar(){
+    document.getElementById("mousemove").innerHTML = "Obrigado por passar.";   
+
+}
+
+function voltar(elemento){
+    //document.getElementById("mousemove").innerHTML = "Passe o mouse";
+    elemento.innerHTML = "Passe o mouse";
+}
+
+
+
 //funções
 /*function validaIdade(idade){
     if (idade >= 18){
