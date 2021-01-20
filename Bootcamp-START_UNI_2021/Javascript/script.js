@@ -1,8 +1,14 @@
 
-function cliclou(){
-    alert("Me contrata");
+function cliclou(){   
+    document.getElementById("agradecimento").innerHTML = "Obrigado por clicar";   // alert("Me contrata");
 }
 
+function redirecionar(){
+    //Para abrir em uma nova aba:
+    //window.open("https://www.google.com");
+    //Para abrir na mesma aba:
+    window.location.href = "https://www.google.com";
+}
 //funções
 /*function validaIdade(idade){
     if (idade >= 18){
