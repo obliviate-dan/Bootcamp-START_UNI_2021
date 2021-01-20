@@ -6,11 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aula JavaScript</title>
 </head>
-<body>
+<body onload="load()">
     <button type="buttom" onclick="cliclou()">Click here
-        <p id="agradecimento" onclick="redirecionar()"></p>
-       <!--<p id="mousemove" onmouseover="trocar()">Passe o mouse aqui</p>-->
-       <p id="mousemove" onmouseover="trocar(this)" onmouseout="voltar(this)">Passe o mouse aqui</p> 
+        <p id="agradecimento" onclick="redirecionar()"></p>          
     </button>
+    <!--<p id="mousemove" onmouseover="trocar()">Passe o mouse aqui</p>-->
+    <p id="mousemove" onmouseover="trocar(this)" onmouseout="voltar(this)">Passe o mouse aqui</p> 
+    
+    <select onchange="funcaoChange(this)">
+        <option value="1"></option>
+        <option value="2"></option>
+        <option value="3"></option>
+    </select>
 </body>
 </html>

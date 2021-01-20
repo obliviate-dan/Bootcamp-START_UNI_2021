@@ -1,5 +1,15 @@
 
 
+function load (){
+    alert("page load");
+}
+
+function funcaoChange(elemento){
+    console.log(elemento.value);
+}
+
+
+//getElement
 
 function cliclou(){   
     document.getElementById("agradecimento").innerHTML = "Obrigado por clicar";   // alert("Me contrata");
