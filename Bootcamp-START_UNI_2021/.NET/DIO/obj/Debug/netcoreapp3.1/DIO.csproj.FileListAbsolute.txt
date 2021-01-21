@@ -1,0 +1,13 @@
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\bin\Debug\netcoreapp3.1\DIO.exe
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\bin\Debug\netcoreapp3.1\DIO.deps.json
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\bin\Debug\netcoreapp3.1\DIO.runtimeconfig.json
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\bin\Debug\netcoreapp3.1\DIO.runtimeconfig.dev.json
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\bin\Debug\netcoreapp3.1\DIO.dll
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\bin\Debug\netcoreapp3.1\DIO.pdb
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\obj\Debug\netcoreapp3.1\DIO.csprojAssemblyReference.cache
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\obj\Debug\netcoreapp3.1\DIO.AssemblyInfoInputs.cache
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\obj\Debug\netcoreapp3.1\DIO.AssemblyInfo.cs
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\obj\Debug\netcoreapp3.1\DIO.csproj.CoreCompileInputs.cache
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\obj\Debug\netcoreapp3.1\DIO.dll
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\obj\Debug\netcoreapp3.1\DIO.pdb
+C:\Users\obliviate\Documents\GitHub\Bootcamp-START_UNI_2021\.NET\DIO\obj\Debug\netcoreapp3.1\DIO.genruntimeconfig.cache
